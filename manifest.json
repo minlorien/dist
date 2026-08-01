@@ -1,0 +1,6 @@
+{
+  "app_version": "1.4.0",
+  "min_runtime": "1.0.0",
+  "app_zip_url": "https://github.com/OWNER/bap-releases/releases/download/app-v1.4.0/app-1.4.0.zip",
+  "app_zip_sha256": "0000000000000000000000000000000000000000000000000000000000000000"
+}
