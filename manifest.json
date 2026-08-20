@@ -1,6 +1,6 @@
 {
-  "app_version": "1.0.2",
+  "app_version": "1.0.3",
   "min_runtime": "1.0.0",
-  "app_zip_url": "https://github.com/minlorien/dist/releases/download/app-v1.0.2/app-1.0.2.zip",
-  "app_zip_sha256": "584e0698c5a3e529f6c3983d9c809be0c1c68da7a42f3b4d5f1150748a7d1adb"
+  "app_zip_url": "https://github.com/minlorien/dist/releases/download/app-v1.0.3/app-1.0.3.zip",
+  "app_zip_sha256": "4e1bc4f98bdfbfb113a8244668292bf35c7f166889b00d3a6620473df779b017"
 }
